@@ -1,0 +1,3 @@
+# O clang vem do GitHub Release, nunca do git.
+clang/host/linux-x86/clang-r*/
+*.tar.zst
